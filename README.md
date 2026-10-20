@@ -1,0 +1,1 @@
+Although there are many great LaTeX ebook templates available on Github, many do not provide an example of the design element that can be included in such a project. My aim is to provide such an example.
